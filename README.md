@@ -4,9 +4,9 @@
 
 **[Download LMX RPC from the LoseMyXelf homepage](https://losemyxelf.xyz/download/LoseMyXelfsDCRPC.rar)** · [Visit LoseMyXelf Service](https://losemyxelf.xyz)
 
-## Private use only
+## License and use restrictions
 
-This project and its source code are provided for the owner's private use. Do not share or redistribute the source, use it to make a build for someone else, or publish a modified or compiled version without the owner's explicit permission. This README is a usage guide, not permission to copy or distribute the source. If you received the source package, please keep it private.
+LMX RPC is distributed as a compiled application; its source code is not included. The program is provided for personal use. Without prior written permission from LoseMyXelf, do not reverse engineer, decompile, disassemble, modify, or create derivative works from the program, and do not redistribute or rehost the program or any modified version. This README does not grant rights to the software or its source code. Any rights that cannot be restricted under applicable law remain unaffected.
 
 LMX RPC lets you publish a custom Discord Rich Presence from the Discord desktop client. You choose the activity text, artwork, and optional buttons. Browser RPC can publish activity for supported websites.
 
