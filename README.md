@@ -1,6 +1,6 @@
 # LMX RPC
 
-[![Download LMX RPC](https://img.shields.io/badge/Download-LMX%20RPC-963ac2?style=for-the-badge&logo=windows&logoColor=white)](https://losemyxelf.xyz/download/LoseMyXelfsDCRPC.rar)
+[![Download LMX RPC](https://img.shields.io/badge/Download-LMX%20RPC-963ac2?style=for-the-badge&logo=windows&logoColor=white)](https://losemyxelf.xyz/download/LMX%20RPC.rar)
 
 **[Download LMX RPC from the LoseMyXelf homepage](https://losemyxelf.xyz/download/LMX%20RPC.rar)** · [Visit LoseMyXelf Service](https://losemyxelf.xyz)
 
